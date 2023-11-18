@@ -1,0 +1,2 @@
+velodyne/velodyne
+/home/lin/catkin_ws/devel/.private/velodyne/cmake.lock /home/lin/catkin_ws/devel/./cmake.lock

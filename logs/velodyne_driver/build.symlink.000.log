@@ -1,0 +1,13 @@
+Symlinking /home/lin/catkin_ws/devel/share/velodyne_driver/cmake/velodyne_driverConfig-version.cmake
+Symlinking /home/lin/catkin_ws/devel/share/velodyne_driver/cmake/velodyne_driverConfig.cmake
+Symlinking /home/lin/catkin_ws/devel/share/velodyne_driver/docs/VelodyneNodeConfig.dox
+Symlinking /home/lin/catkin_ws/devel/share/velodyne_driver/docs/VelodyneNodeConfig.wikidoc
+Symlinking /home/lin/catkin_ws/devel/share/velodyne_driver/docs/VelodyneNodeConfig-usage.dox
+Symlinking /home/lin/catkin_ws/devel/include/velodyne_driver/VelodyneNodeConfig.h
+Symlinking /home/lin/catkin_ws/devel/lib/libvelodyne_input.so
+Symlinking /home/lin/catkin_ws/devel/lib/libdriver_nodelet.so
+Symlinking /home/lin/catkin_ws/devel/lib/pkgconfig/velodyne_driver.pc
+Symlinking /home/lin/catkin_ws/devel/lib/python3/dist-packages/velodyne_driver/__init__.py
+Symlinking /home/lin/catkin_ws/devel/lib/python3/dist-packages/velodyne_driver/cfg/VelodyneNodeConfig.py
+Symlinking /home/lin/catkin_ws/devel/lib/python3/dist-packages/velodyne_driver/cfg/__init__.py
+Symlinking /home/lin/catkin_ws/devel/lib/velodyne_driver/velodyne_node

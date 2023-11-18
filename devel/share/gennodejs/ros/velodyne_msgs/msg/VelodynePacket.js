@@ -1,0 +1,1 @@
+/home/lin/catkin_ws/devel/.private/velodyne_msgs/share/gennodejs/ros/velodyne_msgs/msg/VelodynePacket.js
